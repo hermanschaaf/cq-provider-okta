@@ -1,6 +1,6 @@
 module github.com/cloudquery/cq-provider-okta
 
-go 1.16
+go 1.18
 
 require (
 	github.com/cloudquery/cq-provider-sdk v0.14.5
